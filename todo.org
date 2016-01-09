@@ -1,0 +1,7 @@
+* TODO Write Specs
+* TODO Write Comments
+* TODO Write README
+* TODO export errors.txt
+* TODO successrate.txt
+* TODO faster learn
+* TODO write better net-input, net-output
