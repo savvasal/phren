@@ -1,12 +1,12 @@
 Gem::Specification.new do |s|
   s.name               = "phren"
-  s.version            = "0.0.0"
+  s.version            = "0.0.1"
   s.licenses           = ['GPL-3.0']
  # s.default_executable = "phren"
 
   s.required_rubygems_version = Gem::Requirement.new(">= 0") if s.respond_to? :required_rubygems_version=
   s.authors = ["Savvas Alexandrou"]
-  s.date = %q{2016-01-06}
+  s.date = %q{2016-01-09}
   s.description = %q{A simple neural network gem}
   s.email = %q{salexa@member.fsf.org}
   s.files = ["Rakefile", "lib/layer.rb", "lib/moldmaker.rb",
