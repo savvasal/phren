@@ -1,4 +1,4 @@
-* TODO Write Specs
+* DONE Write Specs
 * TODO Write Comments
 * TODO Write README
 * TODO export errors.txt

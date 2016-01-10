@@ -15,7 +15,7 @@ module Phren
       @num_of_outputs = architecture.last
       
       @num_of_layers = architecture.length
-
+      
       # TODO try to implemet it with map
       @layers[0] = Layer.new(architecture.first, 0)       
       1.upto(@num_of_layers-1) { |i| # create layers
